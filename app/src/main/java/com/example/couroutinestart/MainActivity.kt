@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     private fun loadData() {
         binding.progress.isVisible = true
         binding.buttonLoad.isEnabled = false
